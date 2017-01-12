@@ -2,7 +2,7 @@
 
 ### Day 1: January 11, 2017 
 
-**Today's Progress**: Daily CSS Image Challenge: Beaver
+**Today's Progress**: Coded the Daily CSS Image Challenge: Beaver
 
 **Thoughts:** 
 
