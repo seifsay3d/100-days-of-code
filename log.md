@@ -14,6 +14,6 @@
 
 **Thoughts:** Problem with Python rendering line breaks for blogposts. I will continue to look for a way to solve that.
 
-**Link to work:** [CSS Tiger] (http://codepen.io/sashatran/full/egZbKo/), [Blog] (http://sasha-tran-blog.appspot.com/) [Repo] (https://github.com/sashatran/blog)
+**Link to work:** [CSS Tiger] (http://codepen.io/sashatran/full/egZbKo/), [Blog] (http://sasha-tran-blog.appspot.com/), [Repo] (https://github.com/sashatran/blog)
 
 
