@@ -6,7 +6,7 @@
 
 **Thoughts:** 
 
-**Link to work:** CSS Beaver (http://codepen.io/sashatran/full/NdNqPo/)
+**Link to work:** [CSS Beaver] (http://codepen.io/sashatran/full/NdNqPo/)
 
 ### Day 2: January 12, 2017 
 
