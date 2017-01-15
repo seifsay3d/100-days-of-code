@@ -23,3 +23,11 @@
 **Thoughts:** 
 
 **Link to work:** [CSS Mike Wazowski] (https://codepen.io/sashatran/full/YNWYQy/)
+
+### Day 4: January 14, 2017 
+
+**Today's Progress**: Coded a simple register/login page with python/webapps2 as backend
+
+**Thoughts:** 
+
+**Link to work:** [Register / Login ] (https://github.com/sashatran/simple-login)
