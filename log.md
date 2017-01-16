@@ -26,7 +26,16 @@
 
 ### Day 4: January 14, 2017 
 
-**Today's Progress**: Coded a simple register/login page with python/webapps2 as backend
+**Today's Progress**: Coded a simple register/login page with python/webapp2 as backend
+
+**Thoughts:** 
+
+**Link to work:** [Register / Login ] (https://github.com/sashatran/simple-login)
+
+
+### Day 5: January 15, 2017 
+
+**Today's Progress**: Continue to work on Simple Register / Login project
 
 **Thoughts:** 
 
