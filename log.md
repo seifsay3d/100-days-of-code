@@ -40,3 +40,12 @@
 **Thoughts:** 
 
 **Link to work:** [Register / Login ] (https://github.com/sashatran/simple-login)
+
+
+### Day 6: January 16, 2017 
+
+**Today's Progress**: Coded the Daily CSS Images Challenge: Clock
+
+**Thoughts:** 
+
+**Link to work:** [CSS Clock] (http://codepen.io/sashatran/details/OWbJzG/)
