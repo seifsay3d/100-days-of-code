@@ -49,3 +49,11 @@
 **Thoughts:** 
 
 **Link to work:** [CSS Clock] (http://codepen.io/sashatran/details/OWbJzG/)
+
+### Day 7: January 17, 2017 
+
+**Today's Progress**: Coded the Daily CSS Images Challenge: Ruler and my Portfolio
+
+**Thoughts:** 
+
+**Link to work:** [CSS Ruler] (https://codepen.io/sashatran/full/jyVzXP/), [Portfolio] (http://sasha-tran.appspot.com/)
