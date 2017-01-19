@@ -57,3 +57,12 @@
 **Thoughts:** 
 
 **Link to work:** [CSS Ruler] (https://codepen.io/sashatran/full/jyVzXP/), [Portfolio] (http://sasha-tran.appspot.com/)
+
+### Day 8: January 18, 2017 
+
+**Today's Progress**: Coded the Daily CSS Images Challenge: Notepad and this HTML template with Bootstrap
+
+**Thoughts:** 
+
+**Link to work:** [CSS Notepad] (http://codepen.io/sashatran/full/LxxWqq/), [HTML Template ] (http://codepen.io/sashatran/full/EZZQGq/)
+
