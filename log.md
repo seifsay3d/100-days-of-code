@@ -66,3 +66,19 @@
 
 **Link to work:** [CSS Notepad] (http://codepen.io/sashatran/full/LxxWqq/), [HTML Template ] (http://codepen.io/sashatran/full/EZZQGq/)
 
+### Day 9: January 19, 2017 
+
+**Today's Progress**: Coded the Daily CSS Images Challenge: Calendar and responsive website from Rocket Design tutorial
+
+**Thoughts:** 
+
+**Link to work:** [CSS Calendar] (https://codepen.io/sashatran/full/BpWLbN/), [Responsive website] (https://github.com/sashatran/responsive)
+
+### Day 10: January 20, 2017 
+
+**Today's Progress**: Coded the Daily CSS Images Challenge: Pencil Jar 
+**Thoughts:** 
+
+**Link to work:** [CSS Calendar] (https://codepen.io/sashatran/full/VPpqRV/)
+
+
