@@ -85,7 +85,7 @@
 
 ### Day 11: January 23, 2017 
 
-**Today's Progress**: Coded the Daily CSS Images Challenge: Melting Pizza & Practicing FlexBox
+**Today's Progress**: Coded the Daily CSS Images Challenge: Melting Pizza & Practicing FlexBox, Responsive
 
 **Thoughts:** 
 
