@@ -92,7 +92,7 @@
 **Link to work:** [CSS Pizza] (http://codepen.io/sashatran/full/QdgvLw), [FlexBox] (http://codepen.io/sashatran/full/Xpgzyw/)
 
 
-### Day 11: January 23, 2017 
+### Day 12: January 24, 2017 
 
 **Today's Progress**: Coded the Daily CSS Images Challenge: Hamburger & Practicing FlexBox, Responsive
 
