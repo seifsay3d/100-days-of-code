@@ -100,3 +100,11 @@
 
 **Link to work:** [CSS Burger] (http://codepen.io/sashatran/full/vgJNxE), [Responsive Social Media] (http://codepen.io/sashatran/full/bgRMVj)
 
+### Day 13: January 25, 2017 
+
+**Today's Progress**: Coded the Daily CSS Images Challenge: Taco & Button with Hover Effect
+
+**Thoughts:** 
+
+**Link to work:** [CSS Taco] (http://codepen.io/sashatran/full/RKZdgw), [Button with Hover Effect] (http://codepen.io/sashatran/full/NdaWrr/)
+
