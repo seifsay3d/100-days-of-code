@@ -114,5 +114,5 @@
 
 **Thoughts:** 
 
-**Link to work:** [CSS Taco] (http://codepen.io/sashatran/full/ggGeZr), [Button 2 with Hover Effect] (http://codepen.io/sashatran/full/WRZmRw)
+**Link to work:** [CSS Cheesecake] (http://codepen.io/sashatran/full/ggGeZr), [Button 2 with Hover Effect] (http://codepen.io/sashatran/full/WRZmRw)
 
