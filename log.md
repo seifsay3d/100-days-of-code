@@ -108,3 +108,11 @@
 
 **Link to work:** [CSS Taco] (http://codepen.io/sashatran/full/RKZdgw), [Button with Hover Effect] (http://codepen.io/sashatran/full/NdaWrr/)
 
+### Day 14: January 26, 2017 
+
+**Today's Progress**: Coded the Daily CSS Images Challenge: Cheesecake & Button with Hover Effect
+
+**Thoughts:** 
+
+**Link to work:** [CSS Taco] (http://codepen.io/sashatran/full/ggGeZr), [Button 2 with Hover Effect] (http://codepen.io/sashatran/full/WRZmRw)
+
