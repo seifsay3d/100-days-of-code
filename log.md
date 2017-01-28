@@ -116,3 +116,11 @@
 
 **Link to work:** [CSS Cheesecake] (http://codepen.io/sashatran/full/ggGeZr), [Button 2 with Hover Effect] (http://codepen.io/sashatran/full/WRZmRw)
 
+### Day 15: January 27, 2017 
+
+**Today's Progress**: Coded the Daily CSS Images Challenge: Pie & Flexbox Practice
+
+**Thoughts:** 
+
+**Link to work:** [CSS Cheesecake] (http://codepen.io/sashatran/full/vgWyWd/), [Flexbox Practice - Dribbble style] (http://codepen.io/sashatran/details/ZLaXLz/)
+
