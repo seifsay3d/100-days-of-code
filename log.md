@@ -124,3 +124,19 @@
 
 **Link to work:** [CSS Cheesecake] (http://codepen.io/sashatran/full/vgWyWd/), [Flexbox Practice - Dribbble style] (http://codepen.io/sashatran/details/ZLaXLz/)
 
+### Day 16: January 28, 2017 
+
+**Today's Progress**: Pixar website mockup 
+
+**Thoughts:** 
+
+**Link to work:** [Pixar website mockup] (https://codepen.io/sashatran/full/LxOqNR/)
+
+### Day 17: January 29, 2017 
+
+**Today's Progress**: Added animation to Pixar website mockup 
+
+**Thoughts:** 
+
+**Link to work:** [Pixar website mockup] (https://codepen.io/sashatran/full/LxOqNR/)
+
