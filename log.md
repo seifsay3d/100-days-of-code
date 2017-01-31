@@ -140,3 +140,11 @@
 
 **Link to work:** [Pixar website mockup] (https://codepen.io/sashatran/full/LxOqNR/)
 
+### Day 18: January 30, 2017 
+
+**Today's Progress**: Designed a Google inspired Floating Action Button, Coded the Daily CSS Images Challenge: Frankenstein
+
+**Thoughts:** I saw this button on the Google inbox app, the menu slides up, my version it slides down, I modified a little. 
+
+**Link to work:** [CSS Frakenstein] (http://codepen.io/sashatran/full/bgajNZ), [Google Inspired Floating Actio Button] (http://codepen.io/sashatran/full/pRpmWG)
+
