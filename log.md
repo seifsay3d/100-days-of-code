@@ -146,5 +146,12 @@
 
 **Thoughts:** I saw this button on the Google inbox app, the menu slides up, my version it slides down, I modified a little. 
 
-**Link to work:** [CSS Frakenstein] (http://codepen.io/sashatran/full/bgajNZ), [Google Inspired Floating Actio Button] (http://codepen.io/sashatran/full/pRpmWG)
+**Link to work:** [CSS Frakenstein] (http://codepen.io/sashatran/full/bgajNZ), [Google Inspired Floating Action Button] (http://codepen.io/sashatran/full/pRpmWG)
 
+### Day 19: January 31, 2017 
+
+**Today's Progress**: Rebuild Wise Buyer website with flexbox and media queries & Daily CSS Images: Zombie
+
+**Thoughts:**  
+
+**Link to work:** [CSS Zombie] (http://codepen.io/sashatran/full/dNdeBb/), [Rebuild Wise Buyer Website ] (http://codepen.io/sashatran/full/dNdeBb/)
