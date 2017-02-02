@@ -155,3 +155,11 @@
 **Thoughts:**  
 
 **Link to work:** [CSS Zombie] (http://codepen.io/sashatran/full/dNdeBb/), [Rebuild Wise Buyer Website ] (http://codepen.io/sashatran/full/dNdeBb/)
+
+### Day 20: February 1, 2017 
+
+**Today's Progress**: Coded Daily CSS Images: Vampire Band Aid, Dropbox Menu UI
+
+**Thoughts:**  
+
+**Link to work:** [CSS Vampire BandAid] (http://codepen.io/sashatran/full/OWvNKv), [Dropbox Menu] (http://codepen.io/sashatran/full/vgRJXv/)
