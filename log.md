@@ -163,3 +163,11 @@
 **Thoughts:**  
 
 **Link to work:** [CSS Vampire BandAid] (http://codepen.io/sashatran/full/OWvNKv), [Dropbox Menu] (http://codepen.io/sashatran/full/vgRJXv/)
+
+### Day 21: February 2, 2017 
+
+**Today's Progress**: Coded Daily CSS Images: Monster, Form UI
+
+**Thoughts:**  
+
+**Link to work:** [CSS Monster] (http://codepen.io/sashatran/full/zNjoje), [Form UI] (http://codepen.io/sashatran/full/KaRzwq)
