@@ -171,3 +171,21 @@
 **Thoughts:**  
 
 **Link to work:** [CSS Monster] (http://codepen.io/sashatran/full/zNjoje), [Form UI] (http://codepen.io/sashatran/full/KaRzwq)
+
+
+### Day 22: February 3, 2017 
+
+**Today's Progress**: Learn some parallax design
+
+**Thoughts:**  
+
+**Link to work:** [Parallax] (http://codepen.io/sashatran/pen/MJGexY)
+
+
+### Day 23: February 4, 2017 
+
+**Today's Progress**: Revamp my personal website
+
+**Thoughts:**  
+
+**Link to work:** [Personal website] (http://sashatran.com)
