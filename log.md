@@ -188,4 +188,4 @@
 
 **Thoughts:**  
 
-**Link to work:** [Personal website] (http://sashatran.com)
+**Link to work:** [sashatran.com] (http://sashatran.com)
