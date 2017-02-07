@@ -189,3 +189,30 @@
 **Thoughts:**  
 
 **Link to work:** [sashatran.com] (http://sashatran.com)
+
+
+### Day 24: February 5, 2017 
+
+**Today's Progress**: Made my personal website responsive
+
+**Thoughts:**  
+
+**Link to work:** [sashatran.com] (http://sashatran.com)
+
+
+### Day 25: February 6, 2017 
+
+**Today's Progress**: Coded the Daily CSS Images: Superman
+
+**Thoughts:**  
+
+**Link to work:** [CSS Superman Tinder Profile] (http://codepen.io/sashatran/full/egjBar)
+
+
+### Day 26: February 7, 2017 
+
+**Today's Progress**: Coded the CSS Girl
+
+**Thoughts:**  
+
+**Link to work:** [CSS Girl] (http://codepen.io/sashatran/full/BpPdMb)
