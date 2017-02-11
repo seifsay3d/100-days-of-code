@@ -224,3 +224,12 @@
 **Thoughts:** 
 
 **Link to work:** [Template] (https://codepen.io/sashatran/full/NdEzLm)
+
+### Day 28: February 11, 2017 
+
+**Today's Progress**: HTML/CSS Template Design
+
+**Thoughts:** 
+
+**Link to work:** [Template 2] (http://codepen.io/sashatran/full/KarrVV/)
+
