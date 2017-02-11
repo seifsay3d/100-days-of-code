@@ -216,3 +216,11 @@
 **Thoughts:**  
 
 **Link to work:** [CSS Girl] (http://codepen.io/sashatran/full/BpPdMb)
+
+### Day 27: February 10, 2017 
+
+**Today's Progress**: Converted PSD to HTML
+
+**Thoughts:** 
+
+**Link to work:** [Template] (https://codepen.io/sashatran/full/NdEzLm)
