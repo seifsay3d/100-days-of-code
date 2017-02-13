@@ -233,3 +233,12 @@
 
 **Link to work:** [Template 2] (http://codepen.io/sashatran/full/KarrVV/)
 
+### Day 29: February 12, 2017 
+
+**Today's Progress**: Random Color Generator & Yelp website Icons
+
+**Thoughts:** 
+
+**Link to work:** [Random Color Generator] (https://codepen.io/sashatran/full/VPqXvX), [Yelp Icons] (https://codepen.io/sashatran/full/zNyBKw)
+
+
