@@ -241,4 +241,12 @@
 
 **Link to work:** [Random Color Generator] (https://codepen.io/sashatran/full/VPqXvX), [Yelp Icons] (https://codepen.io/sashatran/full/zNyBKw)
 
+### Day 30: February 14, 2017 
+
+**Today's Progress**: Vue.js Border-Radius Generator
+
+**Thoughts:** 
+
+**Link to work:** [Vue.js Border-Radius Generator] (http://codepen.io/sashatran/full/QdYXBL)
+
 
