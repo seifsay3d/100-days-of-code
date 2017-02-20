@@ -249,4 +249,43 @@
 
 **Link to work:** [Vue.js Border-Radius Generator] (http://codepen.io/sashatran/full/QdYXBL)
 
+### Day 31: February 15, 2017 
 
+**Today's Progress**: Practiced some Algorithms - Multiple Pointers
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 32: February 16, 2017 
+
+**Today's Progress**: CSS Pulsing Button
+
+**Thoughts:** 
+
+**Link to work:** [CSS Pulsing Button] (http://codepen.io/sashatran/details/oBVJGP/)
+
+### Day 33: February 17, 2017 
+
+**Today's Progress**: CSS Animated Tooltip
+
+**Thoughts:** 
+
+**Link to work:** [CSS Animated Tooltip] (http://codepen.io/sashatran/full/KaYYBz)
+
+### Day 34: February 18, 2017 
+
+**Today's Progress**: CSS Button Animation
+
+**Thoughts:** 
+
+**Link to work:** [CSS Button Animation] (http://codepen.io/sashatran/details/KaLqKR)
+
+
+### Day 35: February 19, 2017 
+
+**Today's Progress**: Instagram Inspired Loader
+
+**Thoughts:** 
+
+**Link to work:** [CSS Loader] (http://codepen.io/sashatran/full/KajPqa)
