@@ -284,8 +284,8 @@
 
 ### Day 35: February 19, 2017 
 
-**Today's Progress**: Instagram Inspired Loader
+**Today's Progress**: Instagram Inspired Loader & Reddit Cat Feed Generator
 
 **Thoughts:** 
 
-**Link to work:** [CSS Loader] (http://codepen.io/sashatran/full/KajPqa)
+**Link to work:** [CSS Loader] (http://codepen.io/sashatran/full/KajPqa), [Reddit Cat Feed Generator(http://codepen.io/sashatran/full/LxKjNx/)
