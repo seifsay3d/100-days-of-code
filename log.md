@@ -288,4 +288,4 @@
 
 **Thoughts:** 
 
-**Link to work:** [CSS Loader] (http://codepen.io/sashatran/full/KajPqa), [Reddit Cat Feed Generator(http://codepen.io/sashatran/full/LxKjNx/)
+**Link to work:** [CSS Loader] (http://codepen.io/sashatran/full/KajPqa), [Reddit Cat Feed Generator](http://codepen.io/sashatran/full/LxKjNx/)
