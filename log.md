@@ -289,3 +289,38 @@
 **Thoughts:** 
 
 **Link to work:** [CSS Loader] (http://codepen.io/sashatran/full/KajPqa), [Reddit Cat Feed Generator](http://codepen.io/sashatran/full/LxKjNx/)
+
+
+### Day 36: February 20, 2017 
+
+**Today's Progress**: Algorithms - Multiple Pointers
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 37: February 21, 2017 
+
+**Today's Progress**:  Algorithms - Recursion, CSS Binoculars
+
+**Thoughts:** 
+
+**Link to work:** [CSS Binoculars](https://codepen.io/sashatran/full/ZLgmJo)
+
+### Day 38: February 22, 2017 
+
+**Today's Progress**: Algorithms - Recursion
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 38: February 23, 2017 
+
+**Today's Progress**: Algorithms - More Recursion
+
+**Thoughts:** 
+
+**Link to work:** 
