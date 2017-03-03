@@ -324,3 +324,61 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 39: February 24, 2017 
+
+**Today's Progress**: SVG Filter Gooey Button, Algorithms - Pure recursion vs Helper method
+
+**Thoughts:** 
+
+**Link to work:** [SVG Filter Gooey Button] (http://codepen.io/sashatran/details/WpbGEE)
+
+### Day 40: February 25, 2017 
+
+**Today's Progress**: Algorithms - Pure recursion vs Helper method
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 41: February 26, 2017 
+
+**Today's Progress**: Algorithms
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 42: February 27, 2017 
+
+**Today's Progress**: CSS Search UI
+
+**Thoughts:** 
+
+**Link to work:** [Search UI](http://codepen.io/sashatran/details/XMbGGR)
+
+### Day 43: February 28, 2017 
+
+**Today's Progress**: CSS Gallery Hover Effect
+
+**Thoughts:** 
+
+**Link to work:** [CSS Gallery Hover Effect](http://codepen.io/sashatran/details/aJvaEG)
+
+
+### Day 44: March 1, 2017 
+
+**Today's Progress**: CSS Gallery Hover Effect
+
+**Thoughts:** 
+
+**Link to work:** [CSS Magnifying Glass](http://codepen.io/sashatran/full/wJMezj)
+
+### Day 45: March 2, 2017 
+
+**Today's Progress**: CSS Box Animation
+
+**Thoughts:** 
+
+**Link to work:** [CSS Box Animation](http://codepen.io/sashatran/details/LWprpK)
+
