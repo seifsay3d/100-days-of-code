@@ -382,3 +382,84 @@
 
 **Link to work:** [CSS Box Animation](http://codepen.io/sashatran/details/LWprpK)
 
+### Day 46: March 3, 2017 
+
+**Today's Progress**: CSS Camera
+
+**Thoughts:** 
+
+**Link to work:** [CSS Camera](http://codepen.io/sashatran/full/mWEdwR/)
+
+### Day 47: March 4, 2017 
+
+**Today's Progress**: Practice Algorithms
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 48: March 5, 2017 
+
+**Today's Progress**: Practice Algorithms
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 49: March 6, 2017 
+
+**Today's Progress**: CSS Luggage
+
+**Thoughts:** 
+
+**Link to work:** [CSS Luggage](http://codepen.io/sashatran/full/QpKVxY/)
+
+### Day 50: March 7, 2017 
+
+**Today's Progress**: VueJS Zipcode Finder
+
+**Thoughts:** 
+
+**Link to work:** [VueJS Zipcode Finder](http://codepen.io/sashatran/full/peNaXE/)
+
+### Day 51: March 8, 2017 
+
+**Today's Progress**: Practice Algorithms
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 52: March 9, 2017 
+
+**Today's Progress**: Practice Algorithms
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 52: March 10, 2017 
+
+**Today's Progress**: Practice Algorithms
+
+**Thoughts:** 
+
+**Link to work:** 
+### Day 53: March 11, 2017 
+
+**Today's Progress**: Website with Anime.js
+
+**Thoughts:** 
+
+**Link to work:** [Website with Anime.js](http://codepen.io/sashatran/full/evWmoQ/)
+
+### Day 54: March 13, 2017 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+
