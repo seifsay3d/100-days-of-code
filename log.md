@@ -453,13 +453,20 @@
 
 **Link to work:** [Website with Anime.js](http://codepen.io/sashatran/full/evWmoQ/)
 
-### Day 54: March 13, 2017 
+### Day 54: March 14, 2017 
+
+**Today's Progress**: Responsive Images with Flexbox
+
+**Thoughts:** Need to learn about masonry
+
+**Link to work:** [Responsive with Flexbox](http://sashatran.com/demo-1)
+
+### Day 55: March 15, 2017 
 
 **Today's Progress**: 
 
 **Thoughts:** 
 
 **Link to work:** 
-
 
 
