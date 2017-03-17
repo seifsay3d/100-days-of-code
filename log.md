@@ -9,3 +9,17 @@ I've decided to commit to the 100 days of code challenge, my goal is that by the
 **Thoughts:** Got really inspired by sashatran and decided to practice some basic drawings
 
 **Link to work:** [CSS PIKATUCHU] (http://codepen.io/seifsayed/pen/qrVZBY)
+
+
+
+
+### Day 2: March 17, 2018
+
+**Today's Progress**: Better understanding of positions,::before and ::after.
+
+**Thoughts:** Wanted to draw a motorcycle using css but It was not as smooth as pika, lots of tricks involved. Made the chair, wheels and the engine.
+https://d13yacurqjgara.cloudfront.net/users/279051/screenshots/1855181/motorcycle.jpg
+
+**Link to work:** 
+
+
