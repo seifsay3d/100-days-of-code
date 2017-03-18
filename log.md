@@ -13,7 +13,7 @@ I've decided to commit to the 100 days of code challenge, my goal is that by the
 
 
 
-### Day 2: March 17, 2018
+### Day 2: March 17, 2017
 
 **Today's Progress**: Better understanding of positions,::before and ::after.
 
@@ -21,5 +21,13 @@ I've decided to commit to the 100 days of code challenge, my goal is that by the
 https://d13yacurqjgara.cloudfront.net/users/279051/screenshots/1855181/motorcycle.jpg
 
 **Link to work:** 
+
+### Day 3: March 18, 2017
+
+**Today's Progress**: Drew a wine bottle and a glass
+
+**Thoughts:** Yesterday's motorocycle was very tough, so I thought I'd do something easier. Wine was very helpful :)
+
+**Link to work:** [CSS WINE BOTTLE AND GLASS] http://codepen.io/seifsayed/pen/zZpdVo
 
 
