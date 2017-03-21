@@ -31,12 +31,20 @@ https://d13yacurqjgara.cloudfront.net/users/279051/screenshots/1855181/motorcycl
 **Link to work:** [CSS WINE BOTTLE AND GLASS] http://codepen.io/seifsayed/pen/zZpdVo
 
 
-### Day 4: March 18, 2017
+### Day 4: March 19, 2017
 
 **Today's Progress**: Understood CSS Grids
 
 **Thoughts:** I hate myself for giving up on my own css writing and using frameworks like bootstrap without actually digging in deep. I've thougth that doing a grid system is really hard, and that forced me to use bootstrap for a lot of time. I'm happy I'm over bootstrap now :). I also love the new clear fix solution. 
 A very neat article that I found is this https://www.sitepoint.com/understanding-css-grid-systems/
+
+**Link to work:** 
+
+### Day 5: March 20, 2017
+
+**Today's Progress**: Understood SVGS
+
+**Thoughts:** I'm 5 days in this challenge and I'm really suprised by how much I feel better about myself. Today I decided to learn about SVGS, although I haven't really implemented by hand but I can see how useful they can be.
 
 **Link to work:** 
 
