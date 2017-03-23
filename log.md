@@ -48,3 +48,12 @@ A very neat article that I found is this https://www.sitepoint.com/understanding
 
 **Link to work:** 
 
+
+### Day 6: March 22, 2017
+
+**Today's Progress**: Understood SVGS
+
+**Thoughts:** I skipped yesterday, so I'm still in day 6. decided to up my javascript game and make a game. I've always loved 2048 so I started by the UI today
+
+**Link to work:** http://codepen.io/seifsayed/pen/RpyVBQ
+
