@@ -57,3 +57,12 @@ A very neat article that I found is this https://www.sitepoint.com/understanding
 
 **Link to work:** http://codepen.io/seifsayed/pen/RpyVBQ
 
+
+### Day 6: March 24, 2017
+
+**Today's Progress**: Played with CSS animations
+
+**Thoughts:** I've been trying to work on a juggling css component for my website, did some progress with the animation but I have to make it move in curves.
+
+**Link to work:**
+
